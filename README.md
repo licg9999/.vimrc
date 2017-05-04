@@ -13,7 +13,7 @@ mv ~/.vimrc ~/.vimrc.backup
 2) Download this .vimrc file
 
 ```
-curl {url} > ~/.vimrc
+curl https://raw.githubusercontent.com/licg9999/.vimrc/master/.vimrc > ~/.vimrc
 ```
 
 3) Prepare [Vundle](https://github.com/VundleVim/Vundle.vim) and install all plugins 
