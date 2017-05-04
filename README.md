@@ -7,7 +7,7 @@ As though the old days gone, vim still the best editor, very handy and extensibl
 1) Backup the current .vimrc
 
 ```
-mv ~/.vimrc ~/.vimrc.backup
+mv ~/.vimrc ~/.vimrc.bak
 ```
 
 2) Download this .vimrc file
