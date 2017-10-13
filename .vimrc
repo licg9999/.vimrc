@@ -22,6 +22,7 @@ Bundle 'matze/vim-move'
 Bundle 'Yggdroot/indentLine'
 Bundle 'vim-syntastic/syntastic'
 Bundle 'scrooloose/nerdcommenter'
+Bundle 'elzr/vim-json'
 
 
 call vundle#end()
@@ -503,3 +504,6 @@ let g:syntastic_check_on_wq = 0
 " nerdcommenter configures
 nmap <C-c> <leader>c
 vmap <C-c> <leader>c
+
+" vim-json configures
+let g:vim_json_syntax_conceal = 0
