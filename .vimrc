@@ -23,6 +23,7 @@ Bundle 'Yggdroot/indentLine'
 Bundle 'vim-syntastic/syntastic'
 Bundle 'scrooloose/nerdcommenter'
 Bundle 'elzr/vim-json'
+Bundle 'leafgarland/typescript-vim'
 
 
 call vundle#end()
