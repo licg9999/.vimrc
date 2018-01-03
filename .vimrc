@@ -508,3 +508,4 @@ vmap <C-c> <leader>c
 
 " vim-json configures
 let g:vim_json_syntax_conceal = 0
+
