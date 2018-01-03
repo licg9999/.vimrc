@@ -4,16 +4,16 @@ As though the old days gone, vim still the best editor, very handy and extensibl
 
 # Usage
 
-1) Backup the current .vimrc
+1) Backup your original .vimrc
 
 ```
 mv ~/.vimrc ~/.vimrc.bak
 ```
 
-2) Download this .vimrc file
+2) Download and apply this new .vimrc
 
 ```
-curl https://raw.githubusercontent.com/licg9999/.vimrc/master/.vimrc > ~/.vimrc
+curl -L https://raw.githubusercontent.com/licg9999/.vimrc/master/.vimrc -o ~/.vimrc
 ```
 
 3) Prepare [Vundle](https://github.com/VundleVim/Vundle.vim) and install all plugins 
