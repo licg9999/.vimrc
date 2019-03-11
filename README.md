@@ -16,5 +16,9 @@ mv ~/.vimrc ~/.vimrc.bak
 curl -L https://raw.githubusercontent.com/licg9999/.vimrc/master/.vimrc -o ~/.vimrc
 ```
 
-3) Prepare [Vundle](https://github.com/VundleVim/Vundle.vim) and install all plugins 
+3) Prepare [Vundle](https://github.com/VundleVim/Vundle.vim) and install all plugins (`:PluginInstall`)
+
+```
+git clone --depth=1 https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
 
